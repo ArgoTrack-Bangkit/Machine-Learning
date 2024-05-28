@@ -11,13 +11,7 @@ Utilizing mobile phone camera scanning technology, the platform furnishes real-t
 - Mapping
 - History Scan
 
-## Instalasi
-
-1. Clone repository ini:
-   ```sh
-   git clone [https://github.com/ArgoTrack-Bangkit/Cloud-Computing.git]
-
-# Tim Cloud Computing
+# Tim Machine Learning
 
 ## Anggota Tim
 
@@ -25,7 +19,7 @@ Utilizing mobile phone camera scanning technology, the platform furnishes real-t
 |---|---|---|---|
 | Adinda Purwita Dyah Astuti | M179D4KX2493 | [LinkedIn](www.linkedin.com/in/adinda-purwita) | [GitHub](https://github.com/adindapurwita14) |
 | Ragita Anillya Putri P | M179D4KX3037 | [LinkedIn](www.linkedin.com/in/ragita-anillya) | [GitHub](https://github.com/ragitaanillya23) |
-| Robiah Al Adawiyah | M179D4KX2493 | [LinkedIn](www.linkedin.com/in/adinda-purwita) | [GitHub](https://github.com/adindapurwita14) |
+| Robiah Al Adawiyah | M179D4KX2493 | [LinkedIn](https://www.linkedin.com/in/robiah-al-adawiyah-b6052723b/) | [GitHub](https://github.com/robiahaladawiyah) |
 
 
 Hak Cipta (c) 2024 ArgoTrack
